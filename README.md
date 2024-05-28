@@ -1,21 +1,19 @@
 # PAP
 
-## Colaboração com a Mindera
-
-
 Começar o servidor numa localhost:
 
-Executar o seguinte num terminal
+Executar o seguinte comando num terminal
+
 ```
+npm install
 npm run build
 npm run dev
-
-composer update
 ```
 
 Noutro terminal
 
 ```
+composer update
 php artisan migrate
 php artisan migrate:fresh --seed
 php artisan optimize
