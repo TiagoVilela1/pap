@@ -1,0 +1,222 @@
+,ID,Allocations,State,Team,Billing Company,Role,Skill,Seniority,Location,Office,Start Date,End Date,Sphere,Classification,Billing Code,P. Order,Invoice Desc.,%,$,Rate,Discount,Flagged,Notes,Email,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,905,Mr Pine,HIRED,PolyCon (Poly),MIndera Think UK,Backend Developer,Java,Mid,Porto (PT),Mapfre 404,2018-06-18,2030-07-03,Engineering,N/A,Poly,Sync with team,Sync with team,100,EUR,297,0,Yes,,david.pinheiro@mindera.com,
+,2013,Emil Burrowes,HIRED,PolyCon (Poly),MIndera Think UK,Developer,Javascript,Junior,Porto (PT),Mapfre 213,2020-01-20,Sync with team,Engineering,N/A,Poly,Sync with team,Sync with team,100,EUR,297,0,Yes,,carolina.pereira@mindera.com,"
+            
+              
+            "
+,2095,Percy Murphy,HIRED,Stark Industries (Frontend Team),MIndera Think UK,Frontend Developer,React,Mid,Porto (PT),Mapfre 307,2020-03-04,Sync with team,Engineering,N/A,Frontend Team,Sync with team,Sync with team,100,GBP,261,0,No,,percy.murphy@mindera.com,"
+            
+              
+            "
+,2096,Augustine Letts,HIRED,Stark Industries (Frontend Team),MIndera Think UK,Quality Assurance Engineer,Test Automation,Senior,Porto (PT),Mapfre 106,2020-03-04,Sync with team,Engineering,N/A,Frontend Team,Sync with team,Sync with team,100,GBP,315,0,No,32,miguel.santos@mindera.com,"
+            
+              
+            "
+,2157,Rogelio Michelsen,HIRED,Rearden Steel  (Steel Frontend),MIndera Think UK,Frontend Developer,React,Junior,Porto (PT),Mapfre 119,2020-03-02,Sync with team,Engineering,N/A,Steel Frontend,Sync with team,Sync with team,100,GBP,215,0,No,,antonio.cruz@mindera.com,"
+            
+              
+            "
+,2172,Christopher Troia,HIRED,Rearden Steel  (Steel),MIndera Think UK,Quality Assurance Engineer,Test Automation,Junior,Porto (PT),Mapfre 311,2020-04-13,Sync with team,Engineering,N/A,Steel,Sync with team,Sync with team,100,EUR,279,0,Yes,,christopher.troia@mindera.com,"
+            
+              
+            "
+,2204,Teodoro Casperson,HIRED,Rearden Steel  (Steel),MIndera Think UK,Frontend Developer,React,Junior,Ílhavo (MA),Aveiro,2020-04-06,Sync with team,Engineering,N/A,Steel,Sync with team,Sync with team,100,EUR,279,0,Yes,Test2,teodoro.casperson@mindera.com,"
+            
+              
+            "
+,2426,Selina Sola,HIRED,Stark Industries (Frontend Team),MIndera Think UK,Product Owner,Product/Project,Mid,Porto (PT),Mapfre 407,2020-06-01,Sync with team,Engineering,N/A,Frontend Team,Sync with team,Sync with team,100,GBP,315,0,No,,sofia.silva@mindera.com,"
+            
+              
+            "
+,2883,Gil Villela,HIRED,PolyCon (Poly),MIndera Think UK,Backend Developer,Java,Mid,Porto (PT),Mapfre 213,2020-11-09,Sync with team,Engineering,N/A,Poly,Sync with team,Sync with team,100,EUR,297,0,Yes,,gil.villela@mindera.com,"
+            
+              
+            "
+,3232,Hugh Grammer,HIRED,Mindera (Mindera People),MIndera Think UK,Frontend Developer,Javascript,Mid,Porto (PT),Mapfre 507,2021-02-01,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,0,0,No,Changed Note #11,gil.filipe@mindera.com,"
+            
+              
+            "
+,3233,Blake Docherty,HIRED,Mindera (Mindera People),MIndera Think UK,Backend Developer,Java,Grad,Porto (PT),Mapfre 307,2021-02-01,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,0,0,Yes,,robert.ciulei@mindera.com,"
+            
+              
+            "
+,3235,Rogelio Michelsen,HIRED,Mindera (Mindera People),MIndera Think UK,Frontend Developer,React,Junior,Porto (PT),Mapfre 119,2021-02-01,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,0,0,Yes,,antonio.cruz@mindera.com,"
+            
+              
+            "
+,3241,Mistie Whittingham,HIRED,Mindera (Mindera People),MIndera Think UK,iOS Developer,iOS,Junior,Porto (PT),Mapfre 307,2021-02-01,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,0,0,Yes,,daniela.costa@mindera.com,"
+            
+              
+            "
+,3243,Kurt Pauling,HIRED,Mindera (Mindera People),MIndera Think UK,Frontend Developer,React,Mid,Aveiro (PT),To Be Defined,2021-02-01,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,0,0,Yes,,jose.sousa@mindera.com,"
+            
+              
+            "
+,3244,Denis Falkowski,HIRED,Mindera (Mindera People),MIndera Think UK,Product Owner,Product/Project,Mid,Porto (PT),Mapfre 404,2021-02-01,2026-11-01,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,0,0,No,Changed Note #5,alexandre.silva@mindera.com,
+,3327,Conrad Borunda,LEFT,Mindera (Mindera People),MIndera Think UK,Information Security Specialist,N/A,Senior,Porto (PT),Mapfre 216,2022-03-01,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,10,0,Yes,,alin.deac@mindera.com,"
+            
+              
+            "
+,3398,Denis Falkowski,HIRED,Black Mesa (Mesa 1),MIndera Think UK,Product Owner,Product/Project,Junior,Porto (PT),Mapfre 404,2021-03-15,Sync with team,Engineering,N/A,Mesa 1,Sync with team,Sync with team,50,GBP,346,0,Yes,sdsd\a,alexandre.silva@mindera.com,"
+            
+              
+            "
+,3413,Truman Colburn,HIRED,Aviato (Fly),Mindera UK,Backend Developer,Java,Mid,Ílhavo (MA),Aveiro,2021-05-05,2024-09-04,Engineering,N/A,Fly,Sync with team,Sync with team,100,EUR,379.77,0,No,,gustavo.olmedo@mindera.com,
+,3474,Bruce Wayne,HIRED,abcD (cenas),Mindera PT UA,Cleaning specialist,People,Senior,Porto (PT),Mapfre 309,2022-02-06,2024-04-14,Engineering,N/A,a,Sync with team,Sync with team,100,EUR,450,5,Yes,123qqq,bruce.wayne@mindera.com,
+,3475,Bruce Wayne,HIRED,abcD (cenas),Mindera PT UA,Cleaning specialist,People,Senior,Porto (PT),Mapfre 309,2022-07-04,Sync with team,Engineering,N/A,a,Sync with team,Sync with team,100,EUR,450,5,Yes,,bruce.wayne@mindera.com,"
+            
+              
+            "
+,3476,Bruce Wayne,HIRED,abcD (cenas),Mindera PT UA,Cleaning specialist,People,Senior,Porto (PT),Mapfre 309,2022-07-04,Sync with team,Engineering,N/A,a,Sync with team,Sync with team,100,EUR,450,5,Yes,,bruce.wayne@mindera.com,"
+            
+              
+            "
+,3478,Bruce Wayne,HIRED,abcD (cenas),Mindera PT UA,Cleaning specialist,People,Senior,Porto (PT),Mapfre 309,2022-02-06,Sync with team,Engineering,N/A,a,Sync with team,Sync with team,100,EUR,450,5,Yes,Test,bruce.wayne@mindera.com,"
+            
+              
+            "
+,3482,Mike Black,HIRED,Aviato (Flow),Mindera PT UA,Backend Developer,Java,Junior,Porto (PT),Domus 302,2022-07-12,Sync with team,Engineering,N/A,Flow,Sync with team,Sync with team,50,EUR,100,3,Yes,test,miguel.preto@mindera.com,"
+            
+              
+            "
+,3487,Mike Black,HIRED,Mindera (Mindera People),Mindera PT UA,Backend Developer,DevOps,Junior,Porto (PT),Domus 302,2022-09-30,Sync with team,Engineering,N/A,Mindera People,Sync with team,Sync with team,10,EUR,342,0,Yes,,miguel.preto@mindera.com,"
+            
+              
+            "
+,3527,Alexis Diaz,,Team A (d),Mindera PT UA,Frontend Developer,React,Principal,Porto (PT),To Be Defined,2022-10-10,Sync with team,Engineering,N/A,d,Sync with team,Sync with team,90,GBP,45,45,No,l;sdf;sd,alexis.diaz@mindera.com,"
+            
+              
+            "
+,3530,ana arellano,HIRED,Team A (netsuite creation),MIndera Think UK,Adobe Experience Dev,Adobe Experience,Intern,Azores (PT),Coimbra Office,2022-10-13,Sync with team,Engineering,N/A,net#1,Sync with team,Sync with team,12,EUR,12,12,Yes,,ana.arellano@mindera.com,"
+            
+              
+            "
+,3534,Ivo Snow,HIRED,Team A (netsuite creation),MIndera Think UK,IT Engineer,Adobe Experience,Junior,Leicester (GB),Leicester Office,2022-10-10,Sync with team,Engineering,N/A,net#1,Sync with team,Sync with team,12,EUR,12,12,No,,ivo.snow@mindera.com,"
+            
+              
+            "
+,3536,Bananas,HIRED,Team A (d),MIndera Think UK,123,Android,Junior,Coimbra (MA),Aveiro,2022-10-07,Sync with team,Engineering,N/A,d,Sync with team,Sync with team,55,GBP,0,10,Yes,,bananas@mindera.com,"
+            
+              
+            "
+,3537,Ramiro Imes,HIRED,Blue Cat Hotel (SuperMArio),MIndera Think UK,IT Recruiter,People,Principal,Leicester (GB),Domus 301,2022-11-28,2024-03-08,Engineering,N/A,Blue,Sync with team,Sync with team,12,EUR,450,1,No,Changed Note #4,bruno.lopes@mindera.com,
+,3539,Shannon Ung,HIRED,Team A (d),Mindera PT UA,Backend Developer,Java,Junior,Aveiro (PT),Mapfre 309,2022-11-23,Sync with team,Consulting,Leaves,d,Sync with team,Sync with team,20,GBP,0,10,No,Changed Note #3343,eduardo.carvalho@mindera.com,"
+            
+              
+            "
+,3542,Patricia Furst,HIRED,Aviato (Flow),MIndera Think UK,IT Recruiter,Java,Mid,Porto (PT),Leicester Office,2023-01-13,Sync with team,Engineering,N/A,Flow,Sync with team,Sync with team,15,EUR,10,0,No,,joao.teixeira@mindera.com,"
+            
+              
+            "
+,3549,Manuel Swinglf,HIRED,Rearden Steel  (Steel IOS) #archived,,Backend Developer,iOS,Mid,Porto (PT),Leicester Office,2023-02-19,2024-10-10,Engineering,N/A,Steel IOS2,abc123,123,50,EUR,300,10,Yes,sadfsfasf,marco.vergueira@mindera.com,
+,3550,Manuel Swinglf,HIRED,Rearden Steel  (Steel IOS) #archived,,Backend Developer,iOS,Mid,Porto (PT),Leicester Office,2023-02-19,2024-03-14,Engineering,N/A,Steel IOS2,abc123,123,50,EUR,300,10,Yes,ipºopiº,marco.vergueira@mindera.com,
+,3551,Manuel Swinglf,HIRED,Rearden Steel  (Steel IOS) #archived,,Backend Developer,iOS,Mid,Porto (PT),Leicester Office,2023-02-19,2024-03-15,Engineering,N/A,Steel IOS2,abc123,123,50,EUR,300,10,Yes,,marco.vergueira@mindera.com,
+,3552,Manuel Swinglf,HIRED,Rearden Steel  (Steel IOS) #archived,,Backend Developer,iOS,Mid,Porto (PT),Leicester Office,2023-02-19,2024-03-07,Engineering,N/A,Steel IOS2,abc123,123,50,EUR,300,10,Yes,,marco.vergueira@mindera.com,
+,3555,Patricia Furst,HIRED,Relaxicab (Relaxi backend),Mindera PT UA,Developer,Java,Grad,Porto (PT),Leicester Office,2023-03-21,Sync with team,Engineering,N/A,Relaxi backend,Sync with team,Sync with team,50,EUR,1,10,Yes,Allocation Test,joao.teixeira@mindera.com,"
+            
+              
+            "
+,3556,John Test,HIRED,Burns Industries (Nuclear),MIndera Think UK,Product Owner,Product/Project,Senior,Porto (PT),Remote PT,2023-04-11,Sync with team,Engineering,N/A,Nuclear,Sync with team,Sync with team,100,EUR,400,0,Yes,,test2@test.com,"
+            
+              
+            "
+,3573,Creation,HIRED,Team A (cenas 6.1),Mindera PT UA,Business Analyst,Facilities,Mid,Porto (PT),Mapfre 309,2023-04-10,Sync with team,Education,N/A,a,Sync with team,Sync with team,12,GBP,200,11,Yes,,creation@test.com,"
+            
+              
+            "
+,3575,Manuel Swinglf,HIRED,Team A (cenas 6.1),Mindera PT UA,Full Stack,Performance Testing,Principal,Porto (PT),Leicester Office,2023-05-03,2024-03-07,Education,N/A,a,Sync with team,Sync with team,12,GBP,12,12,Yes,,marco.vergueira@mindera.com,
+,3576,Creation,HIRED,Team A (cenas 6.1),Mindera UK,Business Analyst,Facilities,Mid,Porto (PT),Mapfre 309,2023-04-10,Sync with team,Education,N/A,a,Sync with team,Sync with team,88,GBP,0,0,Yes,,creation@test.com,"
+            
+              
+            "
+,3579,Alexis Diaz,,Stark Industries (Frontend Team),Mindera PT UA,Frontend Developer,React,Senior,Porto (PT),To Be Defined,2023-05-04,Sync with team,,N/A,Frontend Team,Sync with team,Sync with team,100,GBP,350,0,Yes,,alexis.diaz@mindera.com,"
+            
+              
+            "
+,3581,Dave Test,,Rearden Steel  (Steel APIs),Mindera PT UA,Tech Lead,Java,Principal,Porto (PT),Aveiro,2023-05-05,Sync with team,,N/A,Steel APIs,Sync with team,Sync with team,100,GBP,400,0,Yes,,dave.test@mindera.com,"
+            
+              
+            "
+,3593,Patricia Furst,HIRED,Team A (cenas 6.1),Mindera PT UA,Developer,Java,Mid,Porto (PT),Leicester Office,2021-05-18,Sync with team,Education,N/A,a,Sync with team,Sync with team,10,GBP,100,11,No,,joao.teixeira@mindera.com,"
+            
+              
+            "
+,3594,Patricia Furst,HIRED,Team A (cenas 6.1),Mindera PT UA,Developer,Java,Mid,Porto (PT),Leicester Office,2021-05-24,Sync with team,Education,N/A,a,Sync with team,Sync with team,100,GBP,11,1212,Yes,,joao.teixeira@mindera.com,"
+            
+              
+            "
+,3597,Bananas,HIRED,abcD (cenas),Mindera PT UA,123,.NET,Grad,Aveiro (PT),Aveiro,2023-05-01,Sync with team,Engineering,N/A,a,Sync with team,Sync with team,1,EUR,50,5,Yes,,bananas@mindera.com,"
+            
+              
+            "
+,3599,Ramiro Imes,HIRED,Team A (netsuite creation),Mindera PT UA,IT Recruiter,People,Principal,Porto (PT),Domus 301,2023-05-25,2024-03-08,Education,N/A,net#1,Sync with team,Sync with team,10,EUR,2000,20,Yes,,bruno.lopes@mindera.com,
+,3609,Manuel Swinglf,HIRED,Team A (d),Mindera PT UA,Full Stack,Performance Testing,Principal,Porto (PT),Leicester Office,2023-06-13,2024-03-08,Education,Leaver,d,Sync with team,Sync with team,100,GBP,0,10,Yes,,marco.vergueira@mindera.com,
+,3615,John Pine,HIRED,Mindera (Mindera People),Mindera PT UA,Backend Developer,React,Grad,Aveiro (PT),Aveiro,2022-05-03,Sync with team,Engineering,Investment,Mindera People,Sync with team,Sync with team,1,EUR,1,1,Yes,,joao.pinheiro@mindera.com,"
+            
+              
+            "
+,3616,Dianna Pattie,HIRED,Ops (Ops Team PT),MIndera Think UK,Data Engineer,Design/UX,Intern,Porto (PT),Mapfre 507,2021-11-01,Sync with team,Engineering,N/A,Ops Team PT,Sync with team,Sync with team,100,GBP,1,1,Yes,,octavia.tiriac@mindera.com,"
+            
+              
+            "
+,3617,Erik Stoneham,HIRED,Team A (cenas 6.1),Mindera PT UA,123,.NET,Mid,Porto (PT),Mapfre 507,2023-06-21,Sync with team,Education,Bench,a,Sync with team,Sync with team,1,GBP,1,1,Yes,,joao.coimbra@mindera.com,"
+            
+              
+            "
+,3626,Daniel Sousa,HIRED,Rekall (Rekall),MIndera Think UK,Product Owner,Product/Project,Junior,Porto (PT),Mapfre 309,2021-03-15,Sync with team,,N/A,Rekall,Sync with team,Sync with team,50,EUR,346,0,Yes,Changed Note #5,daniel.a.sousa@mindera.com,"
+            
+              
+            "
+,3628,Erik Stoneham,HIRED,Globex (Globex Api),Mindera PT UA,123,.NET,Mid,Porto (PT),Mapfre 507,2023-08-22,Sync with team,Engineering,N/A,Globex Api,Sync with team,Sync with team,50,EUR,0,1,Yes,,joao.coimbra@mindera.com,"
+            
+              
+            "
+,3629,Alexandre Nascimento,HIRED,abcD (dfgdf),Admire Arts,Account Owner,Adobe Experience,Intern,Aveiro (PT),Aveiro,2023-05-30,Sync with team,Education,Bench,gfd,Sync with team,Sync with team,34,BRL,100,20,Yes,,alex@mindera.com,"
+            
+              
+            "
+,3635,Ichigo 10,HIRED,abcD (testeDavid),Admire Arts,Account Owner,.NET,Intern,Aveiro (PT),Aveiro,2023-09-19,Sync with team,Engineering,Joiner,Teste2,Sync with team,Sync with team,9,AUD,100,20,Yes,,ichigo@mindera.com,"
+            
+              
+            "
+,3636,Alessandro Teixeira,HIRED,abcD (testeDavid),Mindera PT UA,Account Owner,Android,Intern,Azores (PT),Aveiro,2023-05-30,Sync with team,Engineering,Bench,Teste2,Sync with team,Sync with team,3,AUD,100,20,Yes,,alessandro_teixeira@mindera.com,"
+            
+              
+            "
+,3637,Adriano Canofre,HIRED,abcD (dfgdf),Carla,Account Owner,Adobe Experience,Intern,Azores (PT),Aveiro,2023-05-30,Sync with team,Education,Investment,gfd,Sync with team,Sync with team,2,BRL,100,20,Yes,,adrianno@mindera.com,"
+            
+              
+            "
+,3638,Adriano Canofre,HIRED,abcD (dfgdf),Carla,Account Owner,Adobe Experience,Intern,Azores (PT),Aveiro,2023-05-30,Sync with team,Education,Investment,gfd,Sync with team,Sync with team,2,BRL,100,20,Yes,,adrianno@mindera.com,"
+            
+              
+            "
+,3642,Cameron Mäsk,HIRED,Aviato (Fly),Carla,Frontend Developer,Javascript,Principal,Porto (PT),Mapfre 404,2023-09-19,Sync with team,Engineering,Bench,Fly,Sync with team,Sync with team,100,EUR,100,0,Yes,,david.beleza@mindera.com,"
+            
+              
+            "
+,3644,Carla02,HIRED,Team A (cenas 6.1),Admire Arts,123,.NET,Senior,Aveiro (PT),Aveiro,2023-09-27,Sync with team,Consulting,N/A,a,Sync with team,Sync with team,3,GBP,0,20,Yes,,carla02@mindera.com,"
+            
+              
+            "
+,3649,Jerry Fahey,JOINING,abcD (cenas),Carla,Frontend Developer,Javascript,Junior,Porto (PT),Aveiro,2023-10-27,Sync with team,Engineering,N/A,a,Sync with team,Sync with team,100,EUR,100,10,Yes,,nataliya.dimitrova@mindera.com,"
+            
+              
+            "
+,3650,Mr Pine,HIRED,PolyCon (Poly),Mindera PT UA,Quality Assurance Engineer,People,Mid,Aveiro (PT),Mapfre 404,2023-10-24,Sync with team,Engineering,Joiner,Poly,Sync with team,Sync with team,100,EUR,245,10,Yes,,david.pinheiro@mindera.com,"
+            
+              
+            "
+,3651,CarlaC,HIRED,Black Mesa (Mesa 1),Mindera PT UA,Agile Scrum Master,Product/Project,Intern,Porto (PT),Mapfre 404,2023-10-25,Sync with team,Engineering,N/A,Mesa 1,Sync with team,Sync with team,100,EUR,100,0,Yes,,carla.cunha@mindera.com,"
+            
+              
+            "
+,3652,Curtis Nogueira,HIRED,Globex (Globex FE),Mindera PT UA,Quality Assurance Engineer,Tester,Mid,Porto (PT),Remote PT,2023-10-03,Sync with team,Engineering,Investment,Globex FE,Sync with team,Sync with team,10,EUR,0,0,Yes,,bruno.moreira@mindera.com,"
+            
+              
+            "
+,3653,Erik Stoneham,HIRED,Aviato (Fly),Mindera PT UA,123,.NET,Mid,Porto (PT),Mapfre 507,2023-11-09,Sync with team,Engineering,N/A,Fly,Sync with team,Sync with team,100,EUR,10,0,Yes,,joao.coimbra@mindera.com,"
+            
+              
+            "
